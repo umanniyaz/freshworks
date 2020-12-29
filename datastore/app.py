@@ -1,4 +1,4 @@
-__author__ = 'Uman'
+__author__ = 'Uman_Niyaz'
 
 from sys import exit
 from flask import Flask
